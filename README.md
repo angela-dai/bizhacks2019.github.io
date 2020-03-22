@@ -2,7 +2,7 @@
 Top Five Finalist at BizHacks 2019
 
 ## About
-For BizHacks 2019, Ansel Hartanto, Talissa Eng, Pranav Narang, Kass Ouitayakul and I created BestVoice, a **React** app which helps non-English speaking customers navigate Best Buy stores. BestVoice uses voice-to-voice translation and simple UI so all language speakers can interact with the app.
+For BizHacks 2019, Ansel Hartanto, Talissa Eng, Pranav Narang, Kasidit Ouitayakul and I created BestVoice, a **React** app which helps non-English speaking customers navigate Best Buy stores. BestVoice uses voice-to-voice translation and simple UI so all language speakers can interact with the app.
 
 ## Media
 - [Demo](https://github.com/angeladai1/bizhacks2019.github.io/blob/master/BizHacks%20BestVoice%20Demo.mp4)
