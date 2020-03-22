@@ -21,4 +21,6 @@ Source Control:
 - GitHub
 
 ## Pitch Deck
-[Google Slides Presentation](https://docs.google.com/presentation/d/1QtsD5s7ii8GmpRFka4z8ZW1KPZ1NRmnLYIbnus8x9h4/edit?usp=sharing)
+[Google Slides Presentation](https://docs.google.com/presentation/d/1QtsD5s7ii8GmpRFka4z8ZW1KPZ1NRmnLYIbnus8x9h4/edit?usp=sharing): 
+- Recorded Demo
+- Business Analysis 
