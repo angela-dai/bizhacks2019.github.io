@@ -8,7 +8,7 @@ For BizHacks 2019, Ansel Hartanto, Talissa Eng, Pranav Narang, Kasidit Ouitayaku
 - [Demo](https://github.com/angeladai1/bizhacks2019.github.io/blob/master/BizHacks%20BestVoice%20Demo.mp4)
 - [Presentation: Business Analysis](https://github.com/angeladai1/bizhacks2019.github.io/blob/master/Best%20Voice%20Pitch%20Deck%20%5BREAD-ONLY%5D.pdf)
 
-## Techonolgies Used
+## Technologies Used
 Programming Languages:
 - React
 - Node 
