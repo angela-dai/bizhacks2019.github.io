@@ -21,6 +21,5 @@ Source Control:
 - GitHub
 
 ## Pitch Deck
-[Google Slides Presentation](https://docs.google.com/presentation/d/1QtsD5s7ii8GmpRFka4z8ZW1KPZ1NRmnLYIbnus8x9h4/edit?usp=sharing): 
-- Recorded Demo
-- Business Analysis 
+- [Recorded Demo](https://github.com/angeladai1/bizhacks2019.github.io/blob/master/BizHacks%20BestVoice%20Demo.mp4)
+- [Presentation: Business Analysis](https://github.com/angeladai1/bizhacks2019.github.io/blob/master/Best%20Voice%20Pitch%20Deck%20%5BREAD-ONLY%5D.pdf)
